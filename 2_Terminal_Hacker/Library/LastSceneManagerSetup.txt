@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/terminal_hacker.unity
+  isLoaded: 1
+  isActive: 1
